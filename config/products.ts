@@ -1,0 +1,1 @@
+../src/config/products.ts
